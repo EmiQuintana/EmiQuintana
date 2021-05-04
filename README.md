@@ -15,12 +15,7 @@ const emi = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Figma],
   tools: [React, Boostrap, NodeJS, Express, Mysql],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "In search of new challenges that allow me to enhance my creativity"
+  challenge: "In search of new challenges that allow me to enhance my creativity"
 }
 ```
 

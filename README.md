@@ -13,7 +13,7 @@
 ```javascript
 const emi = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Figma],
+  code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Boostrap, NodeJS, Express, Mysql],
   challenge: "In search of new challenges that allow me to enhance my creativity"
 }
